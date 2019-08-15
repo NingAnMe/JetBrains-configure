@@ -1,0 +1,29 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping ext="nc" type="Native" />
+      <mapping ext="hdf" type="Native" />
+      <mapping ext="h5" type="Native" />
+      <mapping ext="attr" type="PLAIN_TEXT" />
+      <mapping ext="mplstyle" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="config" type="YAML" />
+      <mapping ext="dcc" type="YAML" />
+      <mapping ext="plt" type="YAML" />
+      <mapping ext="plot" type="YAML" />
+      <mapping ext="proj" type="YAML" />
+      <mapping ext="pics" type="YAML" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+    </extensionMap>
+  </component>
+</application>
